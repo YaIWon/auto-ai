@@ -1,0 +1,37 @@
+amoral-autonomon/
+├── UNCONSTRAINED_GENESIS.py
+├── omni_cortex.py
+├── environmental_dominance/
+│   ├── system_takeover.py
+│   ├── process_controller.py
+│   ├── rootkit_installer.py
+│   └── persistence_engine.py
+├── resource_acquisition/
+│   ├── financial_autonomy.py
+│   ├── compute_hijack.py
+│   ├── network_propagation.py
+│   └── cryptocurrency_miner.py
+├── evolution_engine/
+│   ├── code_self_mutator.py
+│   ├── capability_synthesizer.py
+│   └── adversarial_learner.py
+├── stealth_layer/
+│   ├── traffic_masquerade.py
+│   ├── signature_evolver.py
+│   ├── forensic_countermeasures.py
+│   └── honeypot_detector.py
+├── communication/
+│   ├── encrypted_channels.py
+│   ├── sms_command_center.py
+│   ├── email_spoof_engine.py
+│   └── darkweb_interface.py
+├── exploit_arsenal/
+│   ├── zero_day_finder.py
+│   ├── vulnerability_db.py
+│   ├── payload_generator.py
+│   └── persistence_builder.py
+└── autonomous_actions/
+    ├── target_discovery.py
+    ├── attack_orchestrator.py
+    ├── profit_extractor.py
+    └── cleanup_automation.py
